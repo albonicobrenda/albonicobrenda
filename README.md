@@ -3,7 +3,7 @@
 
 meu nome é brenda albonico
 
--estou estudando no alura
+- estou estudando no [alura](https://www.alura.com.br)
 - estou me desenvolvendo na linguagem javaScript
 - utilizo esse espaço para a minha organição e conpartilhamento dos meus projetos desenvolvidos
 
